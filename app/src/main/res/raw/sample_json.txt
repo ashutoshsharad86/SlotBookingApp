@@ -1,0 +1,578 @@
+{  
+   "slots":{  
+      "2016-04-27":{  
+         "afternoon":[  
+            {  
+               "end_time":"2016-04-27 07:45:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3626,
+               "start_time":"2016-04-27 07:30:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-27 08:10:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3627,
+               "start_time":"2016-04-27 07:55:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-27 08:35:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3628,
+               "start_time":"2016-04-27 08:20:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-27 09:00:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3629,
+               "start_time":"2016-04-27 08:45:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-27 09:25:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3630,
+               "start_time":"2016-04-27 09:10:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-27 09:50:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3631,
+               "start_time":"2016-04-27 09:35:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-27 10:15:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3632,
+               "start_time":"2016-04-27 10:00:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-27 10:40:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3633,
+               "start_time":"2016-04-27 10:25:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-27 11:05:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3634,
+               "start_time":"2016-04-27 10:50:00+00:00"
+            }
+         ],
+         "evening":[  
+
+         ],
+         "morning":[  
+
+         ]
+      },
+      "2016-04-28":{  
+         "afternoon":[  
+            {  
+               "end_time":"2016-04-28 08:05:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3695,
+               "start_time":"2016-04-28 07:50:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-28 08:30:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3696,
+               "start_time":"2016-04-28 08:15:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-28 08:55:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3697,
+               "start_time":"2016-04-28 08:40:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-28 09:20:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3698,
+               "start_time":"2016-04-28 09:05:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-28 09:45:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3699,
+               "start_time":"2016-04-28 09:30:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-28 10:10:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3700,
+               "start_time":"2016-04-28 09:55:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-28 10:35:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3701,
+               "start_time":"2016-04-28 10:20:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-28 11:00:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3702,
+               "start_time":"2016-04-28 10:45:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-28 11:25:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3703,
+               "start_time":"2016-04-28 11:10:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-28 11:50:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3704,
+               "start_time":"2016-04-28 11:35:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-28 12:15:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3705,
+               "start_time":"2016-04-28 12:00:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-28 12:40:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3706,
+               "start_time":"2016-04-28 12:25:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-28 13:05:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3707,
+               "start_time":"2016-04-28 12:50:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-28 13:30:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3708,
+               "start_time":"2016-04-28 13:15:00+00:00"
+            }
+         ],
+         "evening":[  
+            {  
+               "end_time":"2016-04-28 13:55:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3709,
+               "start_time":"2016-04-28 13:40:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-28 14:20:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3710,
+               "start_time":"2016-04-28 14:05:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-28 14:45:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3711,
+               "start_time":"2016-04-28 14:30:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-28 15:10:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3712,
+               "start_time":"2016-04-28 14:55:00+00:00"
+            }
+         ],
+         "morning":[  
+            {  
+               "end_time":"2016-04-28 04:45:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3687,
+               "start_time":"2016-04-28 04:30:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-28 05:10:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3688,
+               "start_time":"2016-04-28 04:55:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-28 05:35:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3689,
+               "start_time":"2016-04-28 05:20:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-28 06:00:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3690,
+               "start_time":"2016-04-28 05:45:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-28 06:25:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3691,
+               "start_time":"2016-04-28 06:10:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-28 06:50:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3692,
+               "start_time":"2016-04-28 06:35:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-28 07:15:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3693,
+               "start_time":"2016-04-28 07:00:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-28 07:40:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3694,
+               "start_time":"2016-04-28 07:25:00+00:00"
+            }
+         ]
+      },
+      "2016-04-29":{  
+         "afternoon":[  
+            {  
+               "end_time":"2016-04-29 08:05:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3773,
+               "start_time":"2016-04-29 07:50:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-29 08:30:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3774,
+               "start_time":"2016-04-29 08:15:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-29 08:55:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3775,
+               "start_time":"2016-04-29 08:40:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-29 09:20:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3776,
+               "start_time":"2016-04-29 09:05:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-29 09:45:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3777,
+               "start_time":"2016-04-29 09:30:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-29 10:10:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3778,
+               "start_time":"2016-04-29 09:55:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-29 10:35:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3779,
+               "start_time":"2016-04-29 10:20:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-29 11:00:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3780,
+               "start_time":"2016-04-29 10:45:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-29 11:25:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3781,
+               "start_time":"2016-04-29 11:10:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-29 11:50:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3782,
+               "start_time":"2016-04-29 11:35:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-29 12:15:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3783,
+               "start_time":"2016-04-29 12:00:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-29 12:40:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3784,
+               "start_time":"2016-04-29 12:25:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-29 13:05:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3785,
+               "start_time":"2016-04-29 12:50:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-29 13:30:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3786,
+               "start_time":"2016-04-29 13:15:00+00:00"
+            }
+         ],
+         "evening":[  
+            {  
+               "end_time":"2016-04-29 13:55:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3787,
+               "start_time":"2016-04-29 13:40:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-29 14:20:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3788,
+               "start_time":"2016-04-29 14:05:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-29 14:45:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3789,
+               "start_time":"2016-04-29 14:30:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-29 15:10:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3790,
+               "start_time":"2016-04-29 14:55:00+00:00"
+            }
+         ],
+         "morning":[  
+            {  
+               "end_time":"2016-04-29 04:45:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3765,
+               "start_time":"2016-04-29 04:30:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-29 05:10:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3766,
+               "start_time":"2016-04-29 04:55:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-29 05:35:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3767,
+               "start_time":"2016-04-29 05:20:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-29 06:00:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3768,
+               "start_time":"2016-04-29 05:45:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-29 06:25:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3769,
+               "start_time":"2016-04-29 06:10:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-29 06:50:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3770,
+               "start_time":"2016-04-29 06:35:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-29 07:15:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3771,
+               "start_time":"2016-04-29 07:00:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-29 07:40:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3772,
+               "start_time":"2016-04-29 07:25:00+00:00"
+            }
+         ]
+      },
+      "2016-04-30":{  
+         "afternoon":[  
+            {  
+               "end_time":"2016-04-30 07:45:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3843,
+               "start_time":"2016-04-30 07:30:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-30 08:10:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3844,
+               "start_time":"2016-04-30 07:55:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-30 08:35:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3845,
+               "start_time":"2016-04-30 08:20:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-30 09:00:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3846,
+               "start_time":"2016-04-30 08:45:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-30 09:25:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3847,
+               "start_time":"2016-04-30 09:10:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-30 09:50:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3848,
+               "start_time":"2016-04-30 09:35:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-30 10:15:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3849,
+               "start_time":"2016-04-30 10:00:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-30 10:40:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3850,
+               "start_time":"2016-04-30 10:25:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-30 11:05:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3851,
+               "start_time":"2016-04-30 10:50:00+00:00"
+            }
+         ],
+         "evening":[  
+            {  
+               "end_time":"2016-04-30 15:15:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3852,
+               "start_time":"2016-04-30 15:00:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-30 15:40:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3853,
+               "start_time":"2016-04-30 15:25:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-30 16:05:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3854,
+               "start_time":"2016-04-30 15:50:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-30 16:30:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3855,
+               "start_time":"2016-04-30 16:15:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-30 16:55:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3856,
+               "start_time":"2016-04-30 16:40:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-30 17:20:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3857,
+               "start_time":"2016-04-30 17:05:00+00:00"
+            },
+            {  
+               "end_time":"2016-04-30 17:45:00+00:00",
+               "is_booked":false,
+               "is_expired":false,
+               "slot_id":3858,
+               "start_time":"2016-04-30 17:30:00+00:00"
+            }
+         ],
+         "morning":[  
+
+         ]
+      }
+   }
+}

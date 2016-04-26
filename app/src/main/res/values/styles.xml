@@ -1,0 +1,55 @@
+<resources>
+
+       <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!--<item name="android:windowActionBar">false</item>-->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        </style>
+
+        <style name="MyCustomTabLayout" parent="Widget.Design.TabLayout">
+            <item name="tabMaxWidth">150dp</item>
+            <item name="tabIndicatorColor">?attr/colorAccent</item>
+            <item name="tabIndicatorHeight">2dp</item>
+            <item name="tabPaddingStart">12dp</item>
+            <item name="tabPaddingEnd">12dp</item>
+            <item name="tabBackground">?attr/selectableItemBackground</item>
+            <item name="tabTextAppearance">@style/MyCustomTabTextAppearance</item>
+            <item name="tabSelectedTextColor">?android:textColorPrimary</item>
+        </style>
+        <style name="MyCustomTabTextAppearance" parent="TextAppearance.Design.Tab">
+            <item name="android:textSize">14sp</item>
+            <item name="android:textColor">?android:textColorSecondary</item>
+            <item name="textAllCaps">true</item>
+        </style>
+	
+	<style name="myRecyclerViewStyle">
+        <!-- NOTE: clipChildren should be true on API level 10 -->
+        <item name="android:clipChildren">true</item>
+        <item name="android:clipToPadding">false</item>
+        <item name="android:paddingBottom">@dimen/activity_vertical_margin</item>
+        <item name="android:paddingLeft">@dimen/activity_horizontal_margin</item>
+        <item name="android:paddingRight">@dimen/activity_horizontal_margin</item>
+        <item name="android:paddingTop">@dimen/activity_vertical_margin</item>
+        <item name="android:scrollbarStyle">outsideOverlay</item>
+        <item name="android:scrollbars">vertical</item>
+    </style>
+    <style name="exampleLauncherButtonStyle">
+        <item name="android:paddingTop">24dp</item>
+        <item name="android:paddingBottom">24dp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="commonListItemStyle">
+    </style>
+
+    <style name="sectionHeaderItemStyle">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Medium</item>
+        <item name="android:gravity">left|bottom</item>
+        <item name="android:paddingBottom">8dp</item>
+    </style>
+
+</resources>
